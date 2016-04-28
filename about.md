@@ -3,13 +3,4 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
-
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+记录我的技术tips，一是对多学的东西记录下来，二是可以分享给需要的人。之前写博客总是半途而废，因为写着写着边不想写了，因为另外一个博客写得更清楚或更全面，就直接引用过来。但是想想还是有写的必要。有两个原因，不是所有需要的人都能看到那篇写的好的文章，我自己写博客至少可以分享给关注我的人。另外，因为写成博客贴出来别人会看到，所以写的时候会注意组织语言，要不然以后需要写文章的时候都不知道该怎么写了。另外，既然要分享出来，对相关的点就需要搞清楚，要不然给别人造成误导。写博客的过程也是对所学东西进行一下梳理。
